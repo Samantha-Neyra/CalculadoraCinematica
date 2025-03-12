@@ -11,6 +11,7 @@ package programa;
  */
 public class Programa {
 
+    //este proyecto fue creado en el año 2023 , primer proyecto de programacion de la universidad
     /**
      * @param args the command line arguments
      */
